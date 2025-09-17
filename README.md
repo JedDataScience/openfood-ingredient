@@ -1,1 +1,0 @@
-# OpenFood Ingredient Project
